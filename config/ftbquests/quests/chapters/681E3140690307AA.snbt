@@ -575,6 +575,35 @@
 			x: 2.5d
 			y: 2.5d
 		}
+		{
+			id: "4819B6D08501A1C1"
+			rewards: [
+				{
+					id: "556C51D53EA1E5D0"
+					item: {
+						Count: 1
+						id: "kubejs:snow_city_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "72BCCE51992129E4"
+					item: "kubejs:ender_light"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "332BD181DBF41B81"
+				title: "收下吧,我最后的波纹！"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
 	]
 	title: "{ftbquests.chapter.681E3140690307AA.title}"
 }
